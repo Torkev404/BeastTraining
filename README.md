@@ -1,6 +1,4 @@
-# BeastTraining
 
-Markdown
 # Python Data Cleaning Basics (OpenClassrooms Practice)
 
 This notebook contains my hands-on practice exercises focused on data cleaning fundamentals in Python, completed as part of my preparation and coursework with OpenClassrooms.
